@@ -1,0 +1,2 @@
+Deptno deptname
+10          IT
